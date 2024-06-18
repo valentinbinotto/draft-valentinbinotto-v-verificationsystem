@@ -4,16 +4,13 @@ Intended status: Informational                              18 June 2024
 Expires: 20 November 2024
 
 
-A method to store information and make verification of the
-               draft-valentinbinotto-v-verificationsystem-00
+A method to store information via email and to ensure the verification
+          of the data and the identification of the version
+            draft-valentinbinotto-v-verificationsystem-00
 
 Abstract
 
-   This document describes a method by which the owners/administrators
-   of a specific domain name can declare other domain names, which are
-   not subdomains of the primary domain but are used by the owners/
-   administrators of the primary domain, as trusted by using TXT records
-   in the DNS zone of the primary domain.
+   This document describes a method by which users
 
 Status of This Memo
 
@@ -30,7 +27,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 26 March 2024.
+   This Internet-Draft will expire on 20 November 2024.
 
 Copyright Notice
 
@@ -48,9 +45,9 @@ Copyright Notice
 
 
 
-Binotto                   Expires 26 March 2024                 [Page 1]
+Binotto                  Expires 20 November 2024               [Page 1]
 
-Internet-Draft           Verifying domain names           September 2023
+Internet-Draft           V verification system           September 2023
 
 
 Table of Contents
