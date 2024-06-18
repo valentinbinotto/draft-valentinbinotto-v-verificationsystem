@@ -47,7 +47,7 @@ Copyright Notice
 
 Binotto                  Expires 20 November 2024               [Page 1]
 
-Internet-Draft           V verification system           September 2023
+Internet-Draft            V verification system                June 2024
 
 
 Table of Contents
@@ -101,9 +101,9 @@ Table of Contents
 
 
 
-Binotto                   Expires 26 March 2024                 [Page 2]
+Binotto                  Expires 20 November 2024               [Page 2]
 
-Internet-Draft           Verifying domain names           September 2023
+Internet-Draft            V verification system                June 2024
 
 
    to the domain-root as possible, which means that, for example,
@@ -157,11 +157,11 @@ Author's Address
 
 
 
-Binotto                   Expires 26 March 2024                 [Page 3]
+Binotto                  Expires 20 November 2024               [Page 3]
 
-Internet-Draft           Verifying domain names           September 2023
+Internet-Draft            V verification system                June 2024
 
 
    Email: valentin.internetdrafts@v434project.com
 
-Binotto                   Expires 26 March 2024                 [Page 4]
+Binotto                  Expires 20 November 2024               [Page 4]
