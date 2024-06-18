@@ -10,7 +10,8 @@ A method to store information via email and to ensure the verification
 
 Abstract
 
-   This document describes a method by which users
+   This document describes a method to store information via email and to ensure the verification of the data and the               identification of the version. As a long-established way of communicating and sharing information and knowledge, 
+   email is at the heart of the V verification system (V-VS).
 
 Status of This Memo
 
