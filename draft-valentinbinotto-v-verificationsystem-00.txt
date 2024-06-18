@@ -67,8 +67,23 @@ Table of Contents
    Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .   3
 
 1.  Introduction
-   Das dauerhafte Ablegen von Informationen und Daten ist absolut essentiell für eine grossen teil der Internetnutzer. Unter dem Namen "V verification system" 
-   
+   The permanent storage of information and data is absolutely essential
+   for a large proportion of Internet users. 
+   The name "V verification system" refers to a procedure for sending 
+   information via email and providing it with defined version 
+   identification attributes in order to guarantee the subsequent 
+   traceability of the version history. As this procedure uses the 
+   existing email infrastructure, elements such as DKIM, SPF or the 
+   encryption of email content can be used to guarantee the integrity of
+   the data.
+
+   The V verification system only uses the email infrastructure. This 
+   means that the use of the V verification system is not associated 
+   with far-reaching changes to the existing infrastructure, and 
+   compatibility with legacy infrastructures is guaranteed. Furthermore, 
+   these minimal requirements mean that the V verification system is 
+   highly flexible and can also be used in environments with limited 
+   infrastructure.
 
 1.1.  Requirements Language
 
