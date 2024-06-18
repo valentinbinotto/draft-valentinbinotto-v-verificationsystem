@@ -122,10 +122,6 @@ Internet-Draft            V verification system                June 2024
 
 5.1.  Normative References
 
-   [RFC1035]  Mockapetris, P., "Domain names - implementation and
-              specification", STD 13, RFC 1035, DOI 10.17487/RFC1035,
-              November 1987, <https://www.rfc-editor.org/info/rfc1035>.
-
    [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
               Requirement Levels", BCP 14, RFC 2119,
               DOI 10.17487/RFC2119, March 1997,
@@ -135,17 +131,24 @@ Internet-Draft            V verification system                June 2024
               2119 Key Words", BCP 14, RFC 8174, DOI 10.17487/RFC8174,
               May 2017, <https://www.rfc-editor.org/info/rfc8174>.
 
-   [RFC1834]  Gargano, J. and K. Weiss, "Whois and Network Information
-              Lookup Service, Whois++", RFC 1834, DOI 10.17487/RFC1834,
-              August 1995, <https://www.rfc-editor.org/info/rfc1834>.
+   [RFC5321]  Dr. John C. Klensin, "Simple Mail Transfer Protocol", 
+              RFC 5321, DOI 10.17487/RFC5321, October 2008, 
+              <https://www.rfc-editor.org/info/rfc5321>.
+
+   [RFC5322]  Pete Resnick, "Internet Message Format", 
+              RFC 5322, DOI 10.17487/RFC5322, October 2008, 
+              <https://www.rfc-editor.org/info/rfc5322>.
 
 5.2.  Informative References
 
-   [RFC822]  Rosenbaum, R., "Using the Domain Name System To Store
-              Arbitrary String Attributes", RFC 1464,
-              DOI 10.17487/RFC1464, May 1993,
-              <https://www.rfc-editor.org/info/rfc1464>.
+   [RFC821]  Jonathan B. Postel, "Simple Mail Transfer Protocol", 
+             RFC 821, DOI 10.17487/RFC0821, August 1982,
+             <https://www.rfc-editor.org/info/rfc821>.
 
+   [RFC822]  David H. Crocker, "STANDARD FOR THE FORMAT OF ARPA 
+             INTERNET TEXT MESSAGES", RFC 822,
+             DOI 10.17487/RFC0822, August 1982,
+             <https://www.rfc-editor.org/info/rfc822>.
 
 
 
