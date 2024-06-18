@@ -97,7 +97,7 @@ Table of Contents
 
    The user or administrator who wishes to store data in the sense of
    the V verification system, MUST use their personal individual 
-   e-mail account (example: valentin@system.valentin). 
+   email account (example: valentin@system.valentin). 
 
    The user or administrator MUST send the data to a personal, 
    individual email address that is also uniquely assigned to them 
@@ -112,8 +112,20 @@ Binotto                  Expires 20 November 2024               [Page 2]
 
 Internet-Draft            V verification system                June 2024
 
+   The subject of the email SHOULD include the project name or the name 
+   of the data to be stored, the current date in the format YYYYMMDD and 
+   the current time in the format HHMM as well as a random value. The 
+   subject of an email could therefore look like this: 
+   "PROJECTXYYZ202406181520 VB"
 
-  
+   In order to improve the durability of the data or to enable 
+   collaboration with other people, these mails MAY also be addressed to 
+   a mailing list or to various other people in addition to the personal 
+   email address.
+
+   The minimum requirements of the V verification system are described
+   in this document. All further details on how the user wishes to use 
+   the V verification system are the sole responsibility of the user.
 
 3.  Security Considerations
 
