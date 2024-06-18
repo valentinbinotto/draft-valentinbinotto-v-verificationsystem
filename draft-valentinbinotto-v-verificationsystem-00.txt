@@ -151,10 +151,6 @@ Internet-Draft            V verification system                June 2024
               DOI 10.17487/RFC1464, May 1993,
               <https://www.rfc-editor.org/info/rfc1464>.
 
-Author's Address
-
-   Valentin Binotto
-   V434 Project
 
 
 
@@ -162,7 +158,11 @@ Binotto                  Expires 20 November 2024               [Page 3]
 
 Internet-Draft            V verification system                June 2024
 
+Author's Address
 
+   Valentin Binotto
+   valentin-43-44.org
+   V434 Project
    Email: valentin.internetdrafts@v434project.com
 
 Binotto                  Expires 20 November 2024               [Page 4]
