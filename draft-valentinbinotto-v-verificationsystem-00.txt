@@ -95,21 +95,17 @@ Table of Contents
 
 2.  The Specification
 
-   A TXT record ([RFC1035]) MUST be created in the authoritative DNS
-   zone under the subdomain "vroot" below the primary domain of an
-   infrastructure provider.  In this entry, in addition to the
-   corresponding entries in the WHOIS database ([RFC1834]), the first
-   name and last name of the root domain owner MUST be recorded in such
-   a TXT record.  Both the first name and last name are written in
-   lowercase and separated by a period.
+   The user or administrator who wishes to store data in the sense of
+   the V verification system, MUST use their personal individual 
+   e-mail account (example: valentin@system.valentin). 
 
-   vroot.valentin-43-44.org.    IN   TXT   "valentin.binotto"
-
-   In another TXT record, under the subdomain "vroot", MAY can be
-   defined which other domain names are also used by the infrastructure
-   provider.  This enumeration does not include subdomains of the
-   primary domain.  The listed domain names SHOULD be defined as close
-
+   The user or administrator MUST send the data to a personal, 
+   individual email address that is also uniquely assigned to them 
+   (example: valentin@admins.valentin). This address MAY be the same as 
+   the sender's address, but MAY also be an address that is different 
+   from the sender's address. The data SHOULD be in the message body of 
+   the email. The message body itself MAY be formatted as Plain text 
+   (flat US-ASCII text)([RFC822]) or MIME ([RFC1521]).
 
 
 Binotto                  Expires 20 November 2024               [Page 2]
@@ -117,12 +113,7 @@ Binotto                  Expires 20 November 2024               [Page 2]
 Internet-Draft            V verification system                June 2024
 
 
-   to the domain-root as possible, which means that, for example,
-   individual subdomains of "example.com" SHOULD NOT be listed if the
-   security and trustworthiness of "example.com" itself and all its
-   subdomains below can be guaranteed.
-
-   vroot.example.net.    IN   TXT   "example.com:example.org"
+  
 
 3.  Security Considerations
 
