@@ -105,7 +105,7 @@ Table of Contents
    the sender's address, but MAY also be an address that is different 
    from the sender's address. The data SHOULD be in the message body of 
    the email. The message body itself MAY be formatted as Plain text 
-   (flat US-ASCII text)([RFC822]) or MIME ([RFC1521]).
+   (flat US-ASCII text)([RFC822]) or MIME ([RFC2045]).
 
 
 Binotto                  Expires 20 November 2024               [Page 2]
@@ -157,6 +157,16 @@ Internet-Draft            V verification system                June 2024
               RFC 5322, DOI 10.17487/RFC5322, October 2008, 
               <https://www.rfc-editor.org/info/rfc5322>.
 
+   [RFC2045]  Ned Freed and Dr. Nathaniel S. Borenstei, "Multipurpose 
+              Internet Mail Extensions (MIME) Part One: Format of 
+              Internet Message Bodies", RFC 2045, DOI 10.17487/RFC2045, 
+              November 1996, <https://www.rfc-editor.org/info/rfc2045>.
+
+
+Binotto                  Expires 20 November 2024               [Page 3]
+
+Internet-Draft            V verification system                June 2024
+
 5.2.  Informative References
 
    [RFC821]  Jonathan B. Postel, "Simple Mail Transfer Protocol", 
@@ -168,11 +178,6 @@ Internet-Draft            V verification system                June 2024
              DOI 10.17487/RFC0822, August 1982,
              <https://www.rfc-editor.org/info/rfc822>.
 
-
-
-Binotto                  Expires 20 November 2024               [Page 3]
-
-Internet-Draft            V verification system                June 2024
 
 Author's Address
 
