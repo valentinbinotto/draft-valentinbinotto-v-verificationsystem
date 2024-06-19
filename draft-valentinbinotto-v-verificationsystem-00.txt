@@ -67,6 +67,7 @@ Table of Contents
    Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .   3
 
 1.  Introduction
+
    The permanent storage of information and data is absolutely essential
    for a large proportion of Internet users. 
    The name "V verification system" refers to a procedure for sending 
